@@ -2,7 +2,7 @@
 
 Automate content generation and publishing to Facebook and Instagram using AI and workflow automation.
 
-![Workflow Diagram](https://github.com/Dhanush0724/n8n-workflow-automation/blob/master/Screenshot%202025-05-10%20125428.png)
+![Workflow Diagram]([https://github.com/Dhanush0724/n8n-workflow-automation/blob/master/Screenshot%202025-05-10%20125428.png](https://github.com/Dhanush0724/n8n-workflow-automation/blob/master/Screenshot%202025-05-11%20134630.png))
 
 ## ✨ Features
 
