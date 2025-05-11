@@ -50,30 +50,24 @@ Automate content generation and publishing to Facebook and Instagram using AI an
 git clone https://github.com/yourusername/n8n-social-post-automation.git
 cd n8n-social-post-automation
 docker-compose up -d
-
-
 Access n8n at: http://localhost:5678
-
 Configuration
 Add your API keys in the HTTP Request nodes
 
 Set up your posting schedule
-
 Customize AI prompts as needed
 
-🔮 Future Improvements
+- **Future Improvements**
 Auto hashtag generation
-
 Analytics integration
-
 Multi-platform support (LinkedIn, Twitter)
-
 Enhanced AI content pairing
 
-📬 Contact
+## Contact
+Feel free to reach out if you're curious, need help with the project, or want to collaborate:
 Dhanush V
 📍 Bangalore | 🎓 AI/ML Engineer
-[LinkedIn] | [GitHub]
+LinkedIn = (https://www.linkedin.com/in/dhanushv0724/) 
 
 🔖 Tags
 #Automation #n8n #GeminiAPI #SocialMedia #AI #Workflow #Docker
