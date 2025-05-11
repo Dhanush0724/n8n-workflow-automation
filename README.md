@@ -44,3 +44,60 @@ Manually managing content for multiple social platforms is time-consuming. This 
 ```bash
 git clone https://github.com/yourusername/n8n-social-post-automation.git
 cd n8n-social-post-automation
+2. Start n8n using Docker
+bash
+Copy
+Edit
+docker-compose up -d
+🔗 Access the editor at: http://localhost:5678
+
+3. Add Your API Keys
+Add the following credentials in the HTTP Request nodes (or use n8n’s credentials system):
+
+🔑 Gemini API Key
+
+🔑 Facebook Graph Access Token
+
+📈 Features
+🤖 AI-generated captions
+
+🖼️ Dynamic image generation based on keywords
+
+🔁 Full automation with scheduling support
+
+📤 Posting to Facebook and Instagram
+
+✅ Easily extendable to other platforms
+
+✨ Future Improvements
+🔁 Auto hashtag generation
+
+📊 Analytics integration (likes, views, etc.)
+
+🤖 Smarter caption + image pairing
+
+🌐 Multi-platform publishing (LinkedIn, Twitter)
+
+📸 Screenshot
+(Add a screenshot of your n8n workflow here)
+
+🧠 Why This Project?
+Managing content for multiple platforms is time-consuming. This workflow solves it using:
+
+AI-generated content
+
+No-code automation with n8n
+
+Seamless deployment via Docker
+
+Let AI and automation do the boring work while you focus on strategy.
+
+📫 Contact
+Feel free to reach out if you're curious or want to collaborate:
+
+Dhanush V
+📍 Bangalore | 🎓 AI/ML Engineer
+LinkedIn | GitHub
+
+🏷️ Tags
+#Automation #n8n #GeminiAPI #SocialMedia #AI #Workflow #Docker
