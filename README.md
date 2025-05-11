@@ -2,7 +2,7 @@
 
 Automate content generation and publishing to Facebook and Instagram using AI and workflow automation.
 
-![Workflow Diagram](./screenshots/automation-workflow.png)
+![Workflow Diagram](Screenshot 2025-05-10 125428.png)
 
 ## ✨ Features
 
